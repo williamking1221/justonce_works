@@ -40,22 +40,6 @@
     flex-direction: row;
 }
 
-.gpt3__header-content__input input {
-    flex: 2;
-    width: 100%;
-    background: var(--color-footer);
-    border-radius: 5px 0px 0px 5px;
-    font-family: var(--font-family);
-    font-size: 20px;
-    line-height: 27px;
-    color: #fff;
-    border: 2px solid var(--color-footer);
-    outline: none;
-
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-}
-
 .gpt3__header-content__input button {
     flex: 0.6;
     width: 100%;
@@ -74,6 +58,8 @@
 
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
 }
 
 .gpt3__header-content__people {
