@@ -26,7 +26,7 @@ const Navbar = () => {
                     <div className="gpt3__navbar-menu_container scale-up-center">
                         <div className="gpt3__navbar-menu_container-links">
                             <p><a href="#home">Home</a></p>
-                            <p><a href="#wIterate">What is Iterate?</a></p>
+                            <p><a href="#wIterate">What is JustOnce?</a></p>
                         </div>
                     </div>
                 )}
