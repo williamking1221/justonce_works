@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/www.williamking1221.github.io/static/css/main.fd02b344.css",
-    "main.js": "/www.williamking1221.github.io/static/js/main.1b413af5.js",
+    "main.js": "/www.williamking1221.github.io/static/js/main.a17a0aa1.js",
     "static/media/ai.png": "/www.williamking1221.github.io/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/www.williamking1221.github.io/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/www.williamking1221.github.io/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -14,10 +14,10 @@
     "static/media/logo.svg": "/www.williamking1221.github.io/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/www.williamking1221.github.io/index.html",
     "main.fd02b344.css.map": "/www.williamking1221.github.io/static/css/main.fd02b344.css.map",
-    "main.1b413af5.js.map": "/www.williamking1221.github.io/static/js/main.1b413af5.js.map"
+    "main.a17a0aa1.js.map": "/www.williamking1221.github.io/static/js/main.a17a0aa1.js.map"
   },
   "entrypoints": [
     "static/css/main.fd02b344.css",
-    "static/js/main.1b413af5.js"
+    "static/js/main.a17a0aa1.js"
   ]
 }
