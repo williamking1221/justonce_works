@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/justonce_works/static/css/main.fd02b344.css",
-    "main.js": "/justonce_works/static/js/main.39d3ac13.js",
-    "static/media/ai.png": "/justonce_works/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/justonce_works/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/justonce_works/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/justonce_works/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/justonce_works/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/justonce_works/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/justonce_works/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/justonce_works/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo_transparent.png": "/justonce_works/static/media/logo_transparent.8cdf81fcf34ba26052dc.png",
-    "static/media/logo.svg": "/justonce_works/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/justonce_works/index.html",
-    "main.fd02b344.css.map": "/justonce_works/static/css/main.fd02b344.css.map",
-    "main.39d3ac13.js.map": "/justonce_works/static/js/main.39d3ac13.js.map"
+    "main.css": "/www.justonce.works/static/css/main.fd02b344.css",
+    "main.js": "/www.justonce.works/static/js/main.c2e2f0b5.js",
+    "static/media/ai.png": "/www.justonce.works/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/www.justonce.works/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/www.justonce.works/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/www.justonce.works/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/www.justonce.works/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/www.justonce.works/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/www.justonce.works/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/www.justonce.works/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo_transparent.png": "/www.justonce.works/static/media/logo_transparent.8cdf81fcf34ba26052dc.png",
+    "static/media/logo.svg": "/www.justonce.works/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/www.justonce.works/index.html",
+    "main.fd02b344.css.map": "/www.justonce.works/static/css/main.fd02b344.css.map",
+    "main.c2e2f0b5.js.map": "/www.justonce.works/static/js/main.c2e2f0b5.js.map"
   },
   "entrypoints": [
     "static/css/main.fd02b344.css",
-    "static/js/main.39d3ac13.js"
+    "static/js/main.c2e2f0b5.js"
   ]
 }
